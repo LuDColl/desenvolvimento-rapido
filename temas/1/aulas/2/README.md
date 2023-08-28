@@ -13,12 +13,12 @@ c) Versões iterativas e menor tempo de colocação no mercado;
 
 d) Feedback constante do usuário;
 
-**e) Ter como pré-requisito equipes tecnicamente muito qualificadas.**
+**e) Ter como pré-requisito equipes tecnicamente muito qualificadas.** `resposta correta`
 
 ## Questão 2
 Para que a RAD possa cumprir o seu objetivo que é o de reduzir o tempo de entrega de produtos, ela precisa de ferramentas que facilitem o desenvolvimento de software. Um dos recursos mais importantes para atingir tal objetivo é o uso de framework. Em relação aos frameworks para desenvolvimento de aplicações RAD, selecione a opção CORRETA:
 
-**a) A escolha de um framework sempre deve levar em consideração as necessidades do projeto que se deseja implementar. Portanto essa escolha tem que estar baseada nas bibliotecas, documentação disponível e a linguagem de programação disponibilizadas para desenvolver o projeto.**
+**a) A escolha de um framework sempre deve levar em consideração as necessidades do projeto que se deseja implementar. Portanto essa escolha tem que estar baseada nas bibliotecas, documentação disponível e a linguagem de programação disponibilizadas para desenvolver o projeto.** `resposta correta`
 
 b) Independe da linguagem de programação escolhida é essencial que tenha como base o Python por se tratar de uma linguagem moderna e bem documentada.
 

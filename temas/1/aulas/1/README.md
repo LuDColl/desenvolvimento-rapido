@@ -9,7 +9,7 @@ a) levantamento orientado a pontos de vista;
 
 b) brainstorming;
 
-**c) JAD;**
+**c) JAD;** `resposta correta`
 
 d) entrevistas;
 
@@ -21,7 +21,7 @@ Analista de Sistemas: O modelo de processo de desenvolvimento de software increm
 
 a) sequencial linear;
 
-**b) RAD (Rapid Application Development);**
+**b) RAD (Rapid Application Development);** `resposta correta`
 
 c) de prototipagem;
 
