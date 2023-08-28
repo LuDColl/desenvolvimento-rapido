@@ -1,0 +1,2 @@
+# Atividade verificadora de aprendizagem
+* Desenvolva um programa em Python que escreva em disco um arquivo com números ordenados crescentemente de 1 a 100. Cada número deve ser separado por “;”. O arquivo deve se chamar “crescente.txt”.
