@@ -8,3 +8,4 @@
 ### Aula 3 – Manipulação de dados
 #### [Atividade 1](temas/2/aulas/3/atividades/1)
 #### [Atividade 2](temas/2/aulas/3/atividades/2)
+#### [Questões](temas/2/aulas/3/README.md)
