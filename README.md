@@ -9,3 +9,7 @@
 #### [Atividade 1](temas/2/aulas/3/atividades/1)
 #### [Atividade 2](temas/2/aulas/3/atividades/2)
 #### [Questões](temas/2/aulas/3/README.md)
+
+### Aula 4 – Manipulação de strings e Tratamento de exceções
+#### [Atividade](temas/2/aulas/4/atividade)
+#### [Questões](temas/2/aulas/4/README.md)
