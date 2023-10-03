@@ -162,3 +162,4 @@ cython_debug/
 # more
 crescente.txt
 students.json
+my_database.db

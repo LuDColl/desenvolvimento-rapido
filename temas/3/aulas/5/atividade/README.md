@@ -1,0 +1,2 @@
+# Atividade verificadora de aprendizagem
+* Voltando ao cenário que trata de um sistema de registro de notas de alunos em uma pequena instituição de ensino, propor que os alunos criem seus bancos de dados no **SGBD** de sua escolha, e implementem os métodos conectores para que seu sistema possa se conectar ao **SGBD**.
