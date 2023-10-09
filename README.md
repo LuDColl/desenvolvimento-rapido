@@ -13,6 +13,10 @@
 ### Aula 4 – Manipulação de strings e Tratamento de exceções
 #### [Atividade](temas/2/aulas/4/atividade)
 #### [Questões](temas/2/aulas/4/README.md)
-
+## Tema 3
 ### Aula 5 – Python Com Banco de Dados
 #### [Atividade](temas/3/aulas/5/atividade)
+#### [Questões](temas/3/aulas/5/README.md)
+### Aula 6 – Python Com Banco de Dados (Parte II)
+#### [Atividade](temas/3/aulas/6/atividade)
+#### [Questões](temas/3/aulas/6/README.md)
