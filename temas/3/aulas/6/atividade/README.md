@@ -1,0 +1,2 @@
+# Atividade verificadora de aprendizagem
+* Voltando ao cenário que trata de um sistema de registro de notas de alunos em uma pequena instituição de ensino, criar as tabelas para modelar as entidades do sistema de registro de notas. Usar o seguinte modelo relacional (**BRModelo**. Disponível em: <https://www.sis4.com/brModelo/>. Acesso em: 28 mar. 2023.
